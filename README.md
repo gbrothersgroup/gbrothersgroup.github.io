@@ -1,2 +1,2 @@
 # gbrothersgroup.github.io
-Introdcution of gbrothersgroup
+Introduction of gbrothersgroup
